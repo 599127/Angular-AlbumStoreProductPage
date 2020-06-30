@@ -1,3 +1,10 @@
-<p style="font-size:16px;font-family:Helvetica,Arial,Sans-Serif;"></p>
 
-<img width="100%"></img>
+
+p{
+    font-size : 16px;
+    font-family : Helvetica,Arial,Sans-Serif;
+}
+
+img {
+    width : "100%",
+}
